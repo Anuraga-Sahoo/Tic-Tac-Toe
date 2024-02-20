@@ -53,6 +53,10 @@ nav{
     border-radius: 3px;
     text-align: center;
 }
+.button:hover{
+    background: linear-gradient(to right,rgb(37, 9, 37),rgb(103, 93, 93));
+    transition:all linear 1s  ;
+}
 a{
     text-decoration: none;
     color: white;
