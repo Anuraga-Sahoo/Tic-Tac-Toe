@@ -86,7 +86,7 @@ a{
     border-top: 0;
 }
 
-@media screen and (max-width: 200px){
+@media only screen and (max-width: 600px){
     body{
         background-color: black;
         color: white;
