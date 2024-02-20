@@ -26,9 +26,8 @@ nav{
     grid-template-rows: repeat(3, 10vw);
     font-family: 'Roboto', sans-serif;
     /* background-color: red; */
-    height: 10rem;
-    width: 10rem;
-    margin: 0 7rem;
+   
+    margin: 1rem 0;
    
 }
 .info{
